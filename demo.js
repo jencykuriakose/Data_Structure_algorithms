@@ -17,3 +17,4 @@ function quicksort(arr){
   return [...quicksort(left),pivot,...quicksort(rigth)];
 }
 console.log(quicksort(arr));
+console.log("jecncy")
